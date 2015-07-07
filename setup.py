@@ -32,7 +32,7 @@ def get_requires():
     return requires
 
 setup(
-    name='Glances',
+    name='Glances-Curiosity',
     version='2.4.2',
     description="A cross-platform curses-based monitoring tool",
     long_description=open('README.rst').read(),
